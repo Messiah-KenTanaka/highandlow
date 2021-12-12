@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">High And Low</string>
+    <string name="hit_text">WIN</string>
+    <string name="lose_text">LOW</string>
+    <string name="high_text">High</string>
+    <string name="next_btn">Next</string>
+    <string name="low_btn">Low</string>
+</resources>
